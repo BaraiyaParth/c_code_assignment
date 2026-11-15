@@ -1,0 +1,7 @@
+entre basic salary of the employee:$100000
+
+--- Salary Details ---
+Basic Salary:$100000.000000
+HRA(20%)    :$20000.000000
+DA(40%)     :$40000.000000
+Gross Salary:$160000.000000
