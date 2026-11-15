@@ -1,0 +1,54 @@
+enter first array (10) element12                         
+2
+323
+23
+45
+67
+78
+98
+67
+55
+enter second array (10) element1
+212
+12
+13
+43
+56
+45
+76
+5
+54
+your array
+first array
+12
+2
+323
+23
+45
+67
+78
+98
+67
+55
+second array
+1
+212
+12
+13
+43
+56
+45
+76
+5
+54
+addition of array
+13
+214
+335
+36
+88
+123
+123
+174
+72
+109
