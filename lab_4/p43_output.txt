@@ -1,0 +1,23 @@
+case-1
+enter sales amount-50
+invalid sales
+
+case-2
+enter sales amount235
+11.000000 is your commission
+
+case-3
+enter sales amount1023
+87.000000 is your commission
+
+case-4
+enter sales amount2312
+222.000000 is your commission
+
+case-5
+enter sales amount5023
+627.875000 is your commission
+
+case-6
+enter sales amount101235
+12654.375000 is your commission
