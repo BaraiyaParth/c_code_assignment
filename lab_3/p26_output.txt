@@ -1,0 +1,5 @@
+enter the value of n:25
+
+sum of all odd numbers between 1 and 25 = 169
+ 
+sum of all even numbers between 1 and 25 = 156
