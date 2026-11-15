@@ -1,0 +1,28 @@
+enter element of 1st 3*3 matrix
+element[0][0]
+
+4
+element[0][1]8
+element[0][2]5
+element[1][0]6
+element[1][1]7
+element[1][2]9
+element[2][0]3
+element[2][1]2
+element[2][2]1
+
+enter element of 2nd 3*3 matrix
+element[0][0]45
+element[0][1]78
+element[0][2]89
+element[1][0]69
+element[1][1]67
+element[1][2]25
+element[2][0]24
+element[2][1]23
+element[2][2]15
+
+your addition matrix
+49      86      94
+75      74      34
+27      25      16
