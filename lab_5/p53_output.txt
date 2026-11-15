@@ -1,0 +1,14 @@
+enter element of 3*3 matrix
+element[0][0]5
+element[0][1]4
+element[0][2]-1
+element[1][0]-5
+element[1][1]9
+element[1][2]12
+element[2][0]8
+element[2][1]-2
+element[2][2]6
+
+sum of row 1 = 8
+sum of row 2 = 16
+sum of row 3 = 12
