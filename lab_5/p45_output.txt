@@ -1,0 +1,14 @@
+enter 10 numbers-3
+-4
+0
+5
+7
+34
+2
+35
+-5
+0
+ -3      -4      0       5       7       34      2       35      -5      0
+total no. of positive element=5
+total no. of negative element=3
+total no. of zero element=2
