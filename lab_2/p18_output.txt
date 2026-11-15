@@ -1,0 +1,4 @@
+enter three numbers:5
+7
+9
+9 is the max number
