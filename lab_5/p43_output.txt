@@ -1,0 +1,12 @@
+enter 10 number for array
+23
+2
+3
+5
+45
+67
+-5
+-23
+34
+11
+sum = 162
