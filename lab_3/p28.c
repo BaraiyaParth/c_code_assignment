@@ -20,9 +20,9 @@ int main(){
     while (temp!=0)
     {
         r=temp%10;
-        printf("%d",r);
+     //   printf("%d",r);
         sum+=pow(r,n);
-       printf("\nsum%lf\n",sum);
+    //   printf("\nsum%lf\n",sum);
         temp/=10;
 
     }
