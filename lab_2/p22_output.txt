@@ -1,0 +1,11 @@
+case-1
+  enter a positive integer:5
+factorial of 5 = 120
+
+case-2
+  enter a positive integer:-3
+Error!..factorial of a negative number dosen't exist..
+
+case-3
+  enter a positive integer:0
+factorial of 0 = 1
