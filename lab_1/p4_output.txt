@@ -1,0 +1,2 @@
+enter temperature in Fahrenheit:-40
+-40.000000 Fahrenheit is equal to -40.000000 Centigrade
