@@ -1,0 +1,5 @@
+enter a amd b
+23
+25
+your a=23 and b=25 before swapping
+your a=25 and b=23 after swapping your a=25 and b=23 after swapping 
