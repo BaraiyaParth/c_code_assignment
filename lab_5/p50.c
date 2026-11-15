@@ -18,9 +18,9 @@ int main()
              }
          }
 
-         printf("\n");
+       /*  printf("\n");
            
-       /*  for(j=0;j<10;j++)
+        for(j=0;j<10;j++)
           {
            printf("%d\t",a[j]);
           }
