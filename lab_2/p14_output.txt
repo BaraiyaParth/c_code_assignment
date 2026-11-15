@@ -1,0 +1,16 @@
+case-1_capital alphabet
+enter the character:P
+'P' is a capital letter
+
+case-2_small alphabet
+enter the character:s
+'s' is a small letter
+
+case-3_digit
+enter the character:5
+'5' is a digit
+
+case-4_special
+enter the character:$
+'$' is a special symbol
+
