@@ -1,0 +1,19 @@
+enter element of 3*3 matrix
+element[0][0]4
+element[0][1]5
+element[0][2]8
+element[1][0]6
+element[1][1]1
+element[1][2]7
+element[2][0]9
+element[2][1]2
+element[2][2]3
+
+original matrix
+4       5       8
+6       1       7
+9       2       3
+transpose matrix
+4       6       9
+5       1       2
+8       7       3
