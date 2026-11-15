@@ -1,0 +1,7 @@
+ex-1
+enter a positive integer23
+23 is prime number
+
+ex-2
+enter a positive integer55
+55 is composite number
