@@ -1,0 +1,3 @@
+enter base number:4
+enter exponent(positive integer):3
+64 is your result
