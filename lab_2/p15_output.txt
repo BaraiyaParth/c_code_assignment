@@ -1,0 +1,35 @@
+case-1
+  enter your five subject mark out of 100
+99
+95
+98
+97
+96
+
+total marks :485.000000
+percentage:97.000000
+division:First division
+
+case-2
+  enter your five subject mark out of 100
+55
+54
+57
+45
+59
+
+total marks :270.000000
+percentage:54.000000
+division:Second division
+
+case-3
+  enter your five subject mark out of 100
+23
+12
+35
+40
+50
+
+total marks :160.000000
+percentage:32.000000
+division:Fail
