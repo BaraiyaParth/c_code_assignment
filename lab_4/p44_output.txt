@@ -1,0 +1,15 @@
+case-1
+enter the total units-5 
+invalid input!! 
+
+case-2
+enter the total units123
+61.500000 is your total electricity bill amount
+
+case-3
+enter the total units256
+136.399994 is your total electricity bill amount
+
+case-4
+enter the total units6767
+8133.750000 is your total electricity bill amount
