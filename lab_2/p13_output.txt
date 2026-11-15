@@ -1,0 +1,7 @@
+case-1_odd
+enter the number15
+your given number is odd
+
+case-2_even
+enter the number24
+your given number is even 
