@@ -1,0 +1,7 @@
+enter your five subject marks:
+100
+98
+97
+99
+95
+your total marks is 489 and your percentage is 97.000000
