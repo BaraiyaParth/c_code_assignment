@@ -1,0 +1,7 @@
+case-1
+enter an integer:153
+153 is an armstrong number
+
+case-2
+enter an integer:1234
+1234 is not an armstrong number
