@@ -1,0 +1,7 @@
+ex-1
+enter the maximum limit(n):25
+the series is:1,4,9,16,25
+
+ex-2
+enter the maximum limit(n):10
+the series is:1,4,9
