@@ -1,0 +1,10 @@
+enter the number(negative number enter for stop) 12
+3
+4
+6
+3
+44
+5
+-0
+-5
+sum = 77
