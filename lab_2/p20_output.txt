@@ -1,0 +1,23 @@
+case-1*
+enter an operator(+ - * /):*
+enter two operands:2
+3
+2.000 * 3.000000 = 6.000000
+
+case-2+
+enter an operator(+ - * /):+
+enter two operands:-2
+-3
+-2.000000 + -3.000000 = -5.000000
+
+case-3-
+enter an operator(+ - * /):-
+enter two operands:3
+-5
+3.000000 - -5.000000 = 8.000000
+
+case-4/
+enter an operator(+ - * /):/
+enter two operands:7
+5
+7.000 / 5.000000 = 1.400000
