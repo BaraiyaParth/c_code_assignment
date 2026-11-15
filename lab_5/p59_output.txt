@@ -1,0 +1,15 @@
+enter the size of array(>0)10
+enter (n) element of array7
+8
+9
+5
+64
+2
+1
+2
+12
+52
+enter element you want to find
+5
+
+the element 5 occurs 1 times
