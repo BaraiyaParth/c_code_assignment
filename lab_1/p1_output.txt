@@ -1,0 +1,4 @@
+enter the principal amount:$10000
+enter the rate of interest:5
+enter the time perion in years:10
+your amount of simple_interest is $5000.000000
