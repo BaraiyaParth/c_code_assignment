@@ -1,0 +1,5 @@
+enter a amd b
+5
+6
+your a=5 and b=6 before swapping
+your a=6 and b=5 after swapping 
