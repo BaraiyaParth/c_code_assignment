@@ -1,0 +1,26 @@
+enter element of 1st 3*3 matrix
+element[0][0]4
+element[0][1]5
+element[0][2]8
+element[1][0]7
+element[1][1]9
+element[1][2]6
+element[2][0]2
+element[2][1]1
+element[2][2]3
+
+enter element of 2nd 3*3 matrix
+element[0][0]7
+element[0][1]5
+element[0][2]4
+element[1][0]8
+element[1][1]9
+element[1][2]6
+element[2][0]1
+element[2][1]2
+element[2][2]3
+
+your subtraction matrix
+-3      0       4
+-1      0       0
+1       -1      0
