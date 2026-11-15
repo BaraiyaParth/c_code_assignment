@@ -1,0 +1,2 @@
+enter a number 2310
+sum of digit is 6
