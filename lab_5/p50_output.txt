@@ -1,0 +1,13 @@
+enter array (10) element23
+12
+67
+45
+32
+-0
+-5
+-23
+16
+23
+
+array after sorting
+-23     -5      0       12      16      23      23      32      45      67
