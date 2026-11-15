@@ -1,0 +1,14 @@
+enter the size of array10
+enter (n) element of array8
+7
+9
+5
+64
+21
+3
+23
+15
+95
+enter element you want to find
+23
+element= 23 found at index=7 (position=8)
