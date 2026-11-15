@@ -1,0 +1,17 @@
+enter element of 3*3 matrix
+element[0][0]5
+element[0][1]4
+element[0][2]2
+element[1][0]8
+element[1][1]9
+element[1][2]-7
+element[2][0]-12
+element[2][1]56
+element[2][2]41
+
+your 3*3 matrix
+5       4       2
+8       9       -7
+-12     56      41
+maximum element in matrix =56
+minimum element in matrix =-12
