@@ -1,0 +1,10 @@
+enter the number of element:5
+
+enter 5 num
+22
+45
+96
+0
+-4
+maximum number is :96
+minimum number is :-4
