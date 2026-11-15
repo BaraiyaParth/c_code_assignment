@@ -1,0 +1,7 @@
+case-1
+enter the characterb
+'b' is a lowercase letter
+
+case-2
+enter the character$
+'$' is Not a lowercase letter
