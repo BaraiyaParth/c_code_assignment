@@ -1,0 +1,7 @@
+case-1
+enter num1232
+num is not palindrom=1232
+
+case-2
+enter num12321
+num is palindrom=12321
