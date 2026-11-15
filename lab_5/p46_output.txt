@@ -1,0 +1,8 @@
+enter size of array(atleast 2)5
+enter 5 numbers23
+23
+5
+0
+-2
+max=23
+smax=5
