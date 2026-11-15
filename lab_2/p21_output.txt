@@ -1,0 +1,29 @@
+case-1
+  ---menu---A. addition
+S. subtraction
+M. multiplication
+D. division
+-----------------enter your choice(A,S,M,D):a
+enter two operands:4
+5
+4.000 + 5.000000 = 9.000000
+
+case-2
+  ---menu---A. addition
+S. subtraction
+M. multiplication
+D. division
+-----------------enter your choice(A,S,M,D):M
+enter two operands:-4
+6
+-4.000 * 6.000000 = -24.000000
+
+case-3
+  ---menu---A. addition
+S. subtraction
+M. multiplication
+D. division
+-----------------enter your choice(A,S,M,D):p
+enter two operands:3
+4
+Error!..invalid operator
