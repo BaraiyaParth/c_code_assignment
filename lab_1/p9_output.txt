@@ -1,0 +1,5 @@
+enter time in days hours and minuts
+10
+23
+25
+your given time in seconds=948300
