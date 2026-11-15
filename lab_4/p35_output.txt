@@ -1,0 +1,7 @@
+ex-1
+enter number1234
+1 is your single digit sum of your number
+
+ex-2
+enter number4567
+4 is your single digit sum of your number
