@@ -1,0 +1,13 @@
+enter the value of n
+10
+the first 10 odd num are
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
