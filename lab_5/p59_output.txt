@@ -1,3 +1,4 @@
+ex-1
 enter the size of array(>0)10
 enter (n) element of array7
 8
@@ -13,3 +14,20 @@ enter element you want to find
 5
 
 the element 5 occurs 1 times
+
+ex-2
+enter the size of array(>0)10
+enter (n) element of array1
+5
+45
+8
+5
+74
+5
+2
+3
+10
+enter element you want to find
+5
+
+the element 5 occurs 3 times
