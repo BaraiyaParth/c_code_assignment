@@ -1,0 +1,30 @@
+--case 1--option 1
+ enter option 1 or 2 according to your awailable data
+ 1.if you have data about hight and base
+ 2.if you have data about all side length
+ 1
+enter value of hight and base
+10
+10
+area of triangle=50.000000
+
+--case 2--option 2
+ enter option 1 or 2 according to your awailable data
+ 1.if you have data about hight and base
+ 2.if you have data about all side length
+2
+enter the length of each side
+5
+6
+7
+area of triangle=14.696939
+
+--case 3--option invalid
+enter option 1 or 2 according to your awailable data
+ 1.if you have data about hight and base
+ 2.if you have data about all side length
+3
+wrong option
+
+
+
