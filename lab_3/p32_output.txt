@@ -1,0 +1,9 @@
+enter the value of n5
+enter n element11
+11
+10
+0
+-4
+
+max=11
+smax=10
