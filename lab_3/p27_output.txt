@@ -1,0 +1,7 @@
+case-1
+enter num7
+num is prime
+
+case-2
+enter num25
+num is not prime
