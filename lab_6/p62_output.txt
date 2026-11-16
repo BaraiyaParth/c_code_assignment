@@ -1,0 +1,9 @@
+ex-1
+enter number153
+
+armsrong num=153
+
+
+ex-2
+enter number123
+not armstrong=123
