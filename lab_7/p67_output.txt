@@ -1,0 +1,8 @@
+enter the number of element in array
+5
+enter 5 element23
+5
+0
+-4
+7 
+max num in array=23
