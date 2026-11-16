@@ -1,0 +1,12 @@
+enter book id:
+233
+enter book title:ss
+enter book author name:sas
+enter book price:
+242
+
+---about book---
+book id   :233
+title     :ss
+author    :sas
+price     :242.000
