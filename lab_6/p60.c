@@ -1,14 +1,14 @@
 #include<stdio.h>
-int evenodd(int a);
+void evenodd(int a);
 void main()
 {
     int a;
     printf("enter your integer number");
     scanf("%d",&a);
- //   evenodd(a);
-  printf(evenodd(a));
+  evenodd(a);
+ 
 }
-int evenodd(int a)
+void evenodd(int a)
 {
     
     if(a%2==0){
