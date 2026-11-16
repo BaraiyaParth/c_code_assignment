@@ -1,0 +1,6 @@
+enter value (int) of x
+4
+enter value (int) of y
+5
+before exchange x=4,y=5
+after exchange x=5,y=4
