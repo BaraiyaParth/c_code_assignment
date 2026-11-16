@@ -1,0 +1,10 @@
+enter Book id: 345
+enter Book title: wec
+enter Author name: eec
+enter Book price: 456
+
+--- book details ---
+book iD : 345
+title   : wec
+author  : eec
+price   : 456.000
