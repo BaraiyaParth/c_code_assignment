@@ -1,0 +1,7 @@
+case 1
+enter num23
+return value =1 the num is prime
+
+case 2
+enter num9
+return value =0 the num is not prime
