@@ -1,0 +1,11 @@
+ex 1
+enter n
+7
+enter r2
+your NcR=21.000000
+
+ex 2
+enter n
+5
+enter r3
+your NcR=10.000000
