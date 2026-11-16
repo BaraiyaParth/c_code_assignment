@@ -1,0 +1,11 @@
+ex 1
+enter a character:A
+'A' is a vowel.
+
+ex 2
+enter a character:o
+'o' is a vowel.
+
+ex 3
+enter a character:s
+'s' is not a vowel.
