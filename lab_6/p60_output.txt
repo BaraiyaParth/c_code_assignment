@@ -1,0 +1,7 @@
+case 1
+enter your integer number22
+22 id even
+
+case 2
+enter your integer number23
+23 is odd
