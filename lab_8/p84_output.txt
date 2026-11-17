@@ -1,0 +1,7 @@
+ex-1
+Enter a string: cvbn bvc
+ string is not palindrome.
+
+ ex-2
+ Enter a string: gklplkg
+string is a palindrome.
