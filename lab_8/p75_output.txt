@@ -1,0 +1,9 @@
+ex-1
+enter first string:asdf
+enter second string:asdf
+both string are equal
+
+ex-2
+enter first string:asdf
+enter second string:asdg
+both string are not equal
