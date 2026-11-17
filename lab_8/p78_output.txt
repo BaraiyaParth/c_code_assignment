@@ -1,0 +1,9 @@
+ex-1
+Enter a string: asdftgf
+Enter a char to search: o
+Char 'o' is not present in the string
+
+ex-2
+Enter a string: asdfrf
+Enter a char to search: r
+Char 'r' is present in the string at position 5
