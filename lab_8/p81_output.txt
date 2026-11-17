@@ -1,0 +1,6 @@
+Enter a line of text: a d SD;% f23
+
+upper letters: 2
+lower letters: 3
+digits: 2
+special symbols (including spaces): 5
