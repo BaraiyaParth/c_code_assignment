@@ -1,0 +1,4 @@
+enter a string:asdd
+original :asdd
+copied:asdd
+44
