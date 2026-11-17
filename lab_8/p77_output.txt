@@ -1,0 +1,8 @@
+enter first string:qwer s
+enter second string:wsxa
+
+1. Length of first string: 6
+2. Copied first string into third string: qwer s
+3. Comparison: Second string is greater than first string.
+4. Concatenated string (s1 + s2): qwer swsxa
+5. Reversed second string: axsw
