@@ -1,0 +1,8 @@
+Enter your name: yuew
+
+Character       ASCII Code
+-------------------------
+y               121
+u               117
+e               101
+w               119
