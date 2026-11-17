@@ -1,0 +1,5 @@
+entr string:ytre g     
+enter char you want to change:
+ t
+entr new ch:T
+yTre g=new string
