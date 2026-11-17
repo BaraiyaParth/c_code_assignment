@@ -1,0 +1,3 @@
+Enter a string: dfg hgf r  t 
+Total characters: 13
+Total words: 4
