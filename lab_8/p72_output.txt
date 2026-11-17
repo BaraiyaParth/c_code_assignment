@@ -1,0 +1,7 @@
+ex-1
+enter a string:d fb dfb b 
+length of string:11
+
+ex-2
+enter a string:asdgr gf
+length of string:8
