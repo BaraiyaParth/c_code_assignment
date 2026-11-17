@@ -1,0 +1,2 @@
+enter a string:asdfgui hog f
+total vowel:=4
