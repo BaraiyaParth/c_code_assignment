@@ -15,7 +15,7 @@ int main()
     printf("entr new ch:");
     scanf(" %c",&rch);
     len= strlen(s);
-    while(i<=len-1){
+    while(i<len){
         if(s[i]==ch){
             s[i]=rch;
           //  break;
