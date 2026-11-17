@@ -1,0 +1,14 @@
+Enter the number of names:5
+Enter 5 names:
+wer
+tgb
+yuj
+fds
+kjl
+
+Names in alphabetical order:
+fds
+kjl
+tgb
+wer
+yuj
