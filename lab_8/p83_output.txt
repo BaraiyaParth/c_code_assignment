@@ -1,0 +1,2 @@
+Enter a string: wert ttre v
+string after sorting char:   eerrtttvw
